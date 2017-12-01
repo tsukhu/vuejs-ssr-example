@@ -1,0 +1,121 @@
+{
+    "canvas":[{
+        "console":
+            [
+            {"panel":[{
+                        "id": "idp_poc_panel_1_card_1",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "80+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "25",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                    },
+                    {
+                        "id": "idp_poc_panel_1_card_2",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "35",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                        },
+                    {
+                        "id": "idp_poc_panel_1_card_3",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "45",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                            },
+                    {
+                        "id": "idp_poc_panel_1_card_0",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "20",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                            }          
+                    ]},
+            {"panel":[{
+                        "id": "idp_poc_panel_1_card_4",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "15",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                    },
+                    {
+                        "id": "idp_poc_panel_1_card_5",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "25",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                        },
+                    {
+                        "id": "idp_poc_panel_1_card_6",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "20",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                            },
+                    {
+                        "id": "idp_poc_panel_1_card_7",
+                        "backgroundImage": "",
+                        "backgroundColor": "",
+                        "title": "DirecTV NOW",
+                        "heading": "Live a little",
+                        "subHeading": "60+ channels",
+                        "logos": ["/img/image1.png", "/img/image2.png"],
+                        "description": "stream live and on-demand on your mobile device.",
+                        "price": "30",
+                        "summary": "you can save $25/mo. with this combo!",
+                        "ctaText": "Make it yours",
+                        "ctaLink": ""
+                            }         
+                    ]}
+            ]        
+    }]  
+}

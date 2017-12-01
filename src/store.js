@@ -2,7 +2,8 @@ import Vue from 'vue'
 import axios from 'axios'
 
 const store = {
-  currentUser: null
+  currentUser: null,
+  canvasData: []
 }
 
 const API = {
@@ -12,6 +13,14 @@ const API = {
       .then((res) => {
         store.currentUser = res.data
       })
+  },
+  fetchConsoleData () {
+    if (store.canvasData.length === 0) {
+      axios.get('http://localhost:8080/static/stubs/data.json')
+      .then((res) => {
+        store.canvasData = res.data
+      })
+    }
   }
 }
 
