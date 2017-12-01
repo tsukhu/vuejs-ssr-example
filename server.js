@@ -1,4 +1,5 @@
 const express = require('express')
+const compression = require('compression')
 const fs = require('fs')
 const path = require('path')
 const code = fs.readFileSync(path.join(__dirname, './dist/server.js'), 'utf8')
@@ -12,6 +13,9 @@ const getCurrentUser = () => {
     id: 1
   })
 }
+
+// compress all responses
+app.use(compression())
 
 app.use('/static', express.static(path.join(__dirname, './dist/static')))
 
@@ -41,4 +45,6 @@ app.get('*', (req, res) => {
   })
 })
 
-app.listen(8080)
+app.listen(8080, () => {
+  console.log('Vue SSR now running at now live at localhost:8080/');
+})
