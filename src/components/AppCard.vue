@@ -12,16 +12,16 @@
 </div>
 <div class="cardContent">
   <div class="cardImages" >
-    <div>
-      <img src="/static/images/ifc.png" />
+    <div class="sprite ifc">
+      <!-- <img src="/assets/images/ifc.png" /> -->
     </div>
-    <div>
-      <img src="/static/images/espn.png"  />
+    <div class="sprite disney">
+      <!-- <img src="/assets/images/espn.png"  /> -->
     </div>
-    <div>
-      <img src="/static/images/disney.png"  />
+    <div class="sprite espn">
+      <!-- <img src="/assets/images/disney.png"  /> -->
     </div>                       
-  </div>
+</div>
   <div class="cardDesc">
     {{cardData.description}}
   </div>

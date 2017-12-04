@@ -1,0 +1,504 @@
+{
+    "canvas": {
+      "console": {
+        "panels": [
+          {
+            "id": "idp_poc_panel_1",
+            "title": "Recommended for you",
+            "backgroundImage": "",
+            "backgroundColor": "",
+            "cards": [
+              {
+                "id": "idp_poc_panel_1_card_1",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 26,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": "Best deal"
+              },
+              {
+                "id": "idp_poc_panel_1_card_2",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 3,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_3",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 1,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_4",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 38,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_5",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 37,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_6",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 22,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_7",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 20,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_8",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 17,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_9",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 43,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              },
+              {
+                "id": "idp_poc_panel_1_card_10",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "title": "DirectTV NOW",
+                "heading": "Live a little",
+                "subHeading": "60+ channels",
+                "logos": [
+                  {
+                    "name": "bbc",
+                    "url": "/img/bbc_white.png"
+                  },
+                  {
+                    "name": "espn",
+                    "url": "/img/espn_logo.png"
+                  }
+                ],
+                "description": "stream live and on-demand on your mobile device",
+                "price": 48,
+                "summary": "you can save $25/mo. with this combo!",
+                "ctaText": "Make it yours",
+                "ctaLink": "",
+                "active": ""
+              }
+            ]
+        },
+        {
+                "id": "idp_poc_panel_1",
+                "title": "Recommended for you",
+                "backgroundImage": "",
+                "backgroundColor": "",
+                "cards": [
+                  {
+                    "id": "idp_poc_panel_1_card_1",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 26,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": "Best deal"
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_2",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 3,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_3",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 1,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_4",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 38,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_5",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 37,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_6",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 22,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_7",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 20,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_8",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 17,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_9",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 43,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  },
+                  {
+                    "id": "idp_poc_panel_1_card_10",
+                    "backgroundImage": "",
+                    "backgroundColor": "",
+                    "title": "DirectTV NOW",
+                    "heading": "Live a little",
+                    "subHeading": "60+ channels",
+                    "logos": [
+                      {
+                        "name": "bbc",
+                        "url": "/img/bbc_white.png"
+                      },
+                      {
+                        "name": "espn",
+                        "url": "/img/espn_logo.png"
+                      }
+                    ],
+                    "description": "stream live and on-demand on your mobile device",
+                    "price": 48,
+                    "summary": "you can save $25/mo. with this combo!",
+                    "ctaText": "Make it yours",
+                    "ctaLink": "",
+                    "active": ""
+                  }
+                ]
+                }
+      ]
+    }
+}
+}

@@ -1,7 +1,7 @@
 <template>
 <div>
-    <div v-for="item of consoleData" >        
-        <app-panel v-bind:panelData="item.panel"></app-panel> 
+    <div v-for="item of consoleData.panels" >        
+        <app-panel v-bind:panelData="item"></app-panel> 
     </div>
 </div>
 

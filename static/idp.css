@@ -24,6 +24,10 @@ sup{font-size:0.5em;}
 .cardContent .cardCTA{margin:20px;}
 .card button{    font-family: "font-regular", "Omnes-ATT-W02";}
 
+.sprite { background: url('images/common.png') no-repeat top left; }
+.sprite.ifc { background-position: 0 0; width: 45px; height: 25px; }
+.sprite.disney { background-position: -55px 0; width: 57px; height: 22px; }
+.sprite.espn { background-position: -122px 0; width: 53px; height: 26px; }
 
 .fontDollar{font-size:40px; color:#009fdb}
 .fontDollarSub{font-size:20px; color:#009fdb}

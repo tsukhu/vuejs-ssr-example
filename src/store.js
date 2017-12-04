@@ -16,7 +16,7 @@ const API = {
   },
   fetchConsoleData () {
     if (store.canvasData.length === 0) {
-      axios.get('http://localhost:8080/static/stubs/data.json')
+      axios.get('http://localhost:8080/static/stubs/newdata.json')
       .then((res) => {
         store.canvasData = res.data
       })

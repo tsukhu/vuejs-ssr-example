@@ -1,6 +1,6 @@
 <template>
     <div>
-        <app-console v-for="item in canvas" v-bind:consoleData="item.console"></app-console>
+        <app-console v-if="canvas" v-bind:consoleData="canvas.console"></app-console>
     </div>
 </template>
 <script>
@@ -10,7 +10,7 @@ export default {
   name: 'AppCanvas',
   props: ['canvas'],
   created () {
-    //  console.log(this.canvas);
+     // console.log("CONSOLE DATA:"+ this.canvas);
   },
   components: {
     AppConsole
